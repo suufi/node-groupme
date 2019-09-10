@@ -13,13 +13,6 @@
     "cli"
   ],
   "author": "Niels Joubert <njoubert@gmail.com> (http://njoubert.com/)",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/njoubert/node-groupme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/njoubert/node-groupme/issues"
-  },
   "directories": {
     "lib": "./lib",
     "test": "./test"
@@ -33,11 +26,5 @@
     "request": "^2.88.0",
     "websocket": "1.0.x"
   },
-  "devDependencies": {},
-  "license": [
-    {
-      "type": "zlib",
-      "url": "http://github.com/njoubert/node-groupme/blob/master/LICENSE"
-    }
-  ]
+  "devDependencies": {}
 }
